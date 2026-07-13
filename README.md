@@ -25,3 +25,9 @@ Este repositório reúne gratuitamente toda a documentação produzida durante o
 - 📄 Documentação Técnica
 - 📷 Imagens do projeto
 - 🎥 Vídeos explicativos
+
+## Status do Projeto
+
+🟢 Em desenvolvimento
+
+Última atualização: Julho/2026
